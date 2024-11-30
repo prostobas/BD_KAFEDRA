@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.529,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Otchet\Otchet3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Proverka.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,E:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Otchet\Otchet2.pas=E:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\fmDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\QueryTema.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Proverka.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Proverka.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Proverka.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\AddTema.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\AddRucovod.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Query.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Query.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\QueryTema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\Tema.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\Rucovod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\Tema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.101,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\Tema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\YourP\Documents\Embarcadero\Studio\Projects\Unit1.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\fmMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableGruppStudent\AddGrupp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\QueryTema.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\EditTema.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\EditRucovod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\EditTema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\EditTema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Zapros3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\YourP\Documents\Embarcadero\Studio\Projects\Project2.dproj=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\kafedrabd.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableGruppStudent\EditStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\kafedrabd.dproj=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\kafedrabd.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\AddTema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\AddTema.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\AddTema.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\AddRucovod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,E:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Otchet\Otchet2.dfm=E:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\EditTema.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\EditRucovod.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=E:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\YourP\Documents\Embarcadero\Studio\Projects\Unit1.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\fmMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=C:\Users\YourP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\YourP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Otchet\Otchet3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\fmDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\Query.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Zapros\QueryTema.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableGruppStudent\EditGrupp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableGruppStudent\GruppStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableTema\Tema.dfm=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableRucovod\Rucovod.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=J:\ПГУ\4 КУРС 1 СЕМЕСТР\курсовая бд\kafedra\TableGruppStudent\AddStudent.pas</Transaction>
+  </Transactions>
+</BorlandProject>
